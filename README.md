@@ -1,6 +1,8 @@
 # GeneratePanel (coming soon)
 GeneratePanel is a cPanel/WHM & MyOwnFreeHost (other systems are coming soon) client area and the successor of GenerateArea.
 
+**Note that GeneratePanel is a client area, not a free web hosting service.**
+
 The first version v0.0.0, is coming torommow or today.
 
 GeneratePanel is an upcoming project that will build upon the foundation of GenerateArea, offering an enhanced and feature-rich experience for managing your hosting services. We're excited to bring you a more powerful and user-friendly client area solution that meets your hosting needs with improved functionality and usability.
