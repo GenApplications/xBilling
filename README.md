@@ -1,5 +1,5 @@
 # GeneratePanel (coming soon)
-The Successor of GenerateArea
+GeneratePanel is a WHM & MyOwnFreeHost client area and The Successor of GenerateArea.
 
 GeneratePanel is an upcoming project that will build upon the foundation of GenerateArea, offering an enhanced and feature-rich experience for managing your hosting services. We're excited to bring you a more powerful and user-friendly client area solution that meets your hosting needs with improved functionality and usability.
 
