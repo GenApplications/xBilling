@@ -5,6 +5,30 @@ GeneratePanel is a cPanel WHM, Plesk & MyOwnFreeHost client area and the success
 
 It is currently in development.
 
+
+
+### Features
+- User management
+- Theme management
+- Support tickets
+- Administrative backend
+- Intergration with:
+	- MyOwnFreeHost
+	- Captcha support from Google reCAPTCHA, CryptoLoot, hCaptcha, Cloudflare Turnstile
+	- Integration for GoGetSSL, Site.pro, Wayback Machine, SMTP
+- Update manager
+- Multi-lingual
+
+### SMTP
+Here are some widely used SMTP services. They have free plans with some limitations, most importantly though, they are compatible with GenerateArea.
+- [Mailgun](https://www.mailgun.com/). 
+> **Note**  
+> Mailgun seems to offer only a trial plan for a month, and without adding a credit card you are only authorized to send emails to 5 recipients. Therefore, you may want to choose another service.
+- [Mailjet](https://mailjet.com/).
+- [SendGrid](https://sendgrid.com/free/).
+- [Smtp2go](https://www.smtp2go.com/)
+- [Brevo (formerly Sendinblue)](https://www.brevo.com/)
+- Gmail SMTP
 **GeneratePanel Development Roadmap**
 
 **Phase 1: Project Initiation (Months 1-2)**
