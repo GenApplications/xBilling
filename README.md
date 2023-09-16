@@ -1,35 +1,31 @@
 # GeneratePanel: Free and Open Source Alternative to WHMCS
-GeneratePanel is a cPanel WHM, Plesk & MyOwnFreeHost client area and the successor of GenerateArea.
 
-**Note that GeneratePanel is a client area, not a free web hosting service.**
+GeneratePanel is a client area for cPanel WHM, Plesk, and MyOwnFreeHost (MOFH). Please note that GeneratePanel is a client area, not a free web hosting service. It is currently in development.
 
-It is currently in development.
+## Features
 
-
-
-### Features
 - User management
 - Theme management
 - Support tickets
 - Administrative backend
-- Intergration with:
-	- MyOwnFreeHost, cPanel WHM, Plesk (comming soon)
-	- Captcha support from Google reCAPTCHA, CryptoLoot, hCaptcha, Cloudflare Turnstile (comming soon)
-	- Integration for GoGetSSL, Site.pro, Wayback Machine, SMTP (comming soon)
+- Integration with:
+  - MOFH, cPanel WHM, Plesk (coming soon)
+  - Captcha support from Google reCAPTCHA, CryptoLoot, hCaptcha, Cloudflare Turnstile (coming soon)
+  - Integration for GoGetSSL, Site.pro, Wayback Machine, SMTP (coming soon)
 - Update manager
-- Multi-lingual
+- Multi-lingual support
 
-### SMTP
-Here are some widely used SMTP services. They have free plans with some limitations, most importantly though, they are compatible with GenerateArea.
-- [Mailgun](https://www.mailgun.com/). 
-> **Note**  
-> Mailgun seems to offer only a trial plan for a month, and without adding a credit card you are only authorized to send emails to 5 recipients. Therefore, you may want to choose another service.
-- [Mailjet](https://mailjet.com/).
-- [SendGrid](https://sendgrid.com/free/).
+## SMTP Services
+
+Here are some widely used SMTP services that are compatible with GenerateArea:
+
+- [Mailgun](https://www.mailgun.com/)
+- [Mailjet](https://mailjet.com/)
+- [SendGrid](https://sendgrid.com/free/)
 - [Smtp2go](https://www.smtp2go.com/)
 - [Brevo (formerly Sendinblue)](https://www.brevo.com/)
 - Gmail SMTP
-  
+
 ### GeneratePanel Development Roadmap
 
 **Phase 1: Project Initiation (Months 1-2)**
@@ -106,8 +102,4 @@ Here are some widely used SMTP services. They have free plans with some limitati
 17. **Community Engagement** (Ongoing):
     - Foster a community around GeneratePanel, encouraging contributions and collaboration.
 
-GeneratePanel is an upcoming project that will build upon the foundation of GenerateArea, offering an enhanced and feature-rich experience for managing your hosting services. We're excited to bring you a more powerful and user-friendly client area solution that meets your hosting needs with improved functionality and usability.
-
-Stay tuned for updates as we work diligently to develop GeneratePanel into a comprehensive and efficient platform. We're committed to providing you with the tools you need to manage your hosting services seamlessly and effectively.
-
-We appreciate your interest and support in this project as we strive to create a solution that makes hosting management even more convenient and accessible. Keep an eye out for announcements and previews as we prepare to launch GeneratePanel in the near future.
+GeneratePanel is an upcoming project that aims to provide an enhanced and feature-rich experience for managing hosting services. Stay tuned for updates as we work diligently to develop GeneratePanel into a comprehensive platform. We appreciate your interest and support in this project.
