@@ -13,9 +13,9 @@ It is currently in development.
 - Support tickets
 - Administrative backend
 - Intergration with:
-	- MyOwnFreeHost
-	- Captcha support from Google reCAPTCHA, CryptoLoot, hCaptcha, Cloudflare Turnstile
-	- Integration for GoGetSSL, Site.pro, Wayback Machine, SMTP
+	- MyOwnFreeHost, cPanel WHM, Plesk (comming soon)
+	- Captcha support from Google reCAPTCHA, CryptoLoot, hCaptcha, Cloudflare Turnstile (comming soon)
+	- Integration for GoGetSSL, Site.pro, Wayback Machine, SMTP (comming soon)
 - Update manager
 - Multi-lingual
 
