@@ -29,7 +29,8 @@ Here are some widely used SMTP services. They have free plans with some limitati
 - [Smtp2go](https://www.smtp2go.com/)
 - [Brevo (formerly Sendinblue)](https://www.brevo.com/)
 - Gmail SMTP
-**GeneratePanel Development Roadmap**
+  
+### GeneratePanel Development Roadmap
 
 **Phase 1: Project Initiation (Months 1-2)**
 
