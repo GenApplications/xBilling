@@ -1,12 +1,14 @@
 <?php
 // This is a placeholder.
 // Replace these with your actual MOFH API credentials and endpoints
-$apiUrl = 'https://api.myownfreehost.net'; // Replace with the MOFH API endpoint
-$apiKey = 'your_api_key'; // Replace with your MOFH API key
+$apiUrl = 'https://panel.myownfreehost.net:2087/json-api/'; // Replace with the WHM API endpoint
+$apiKey = 'your_api_key'; // Replace with your WHM API key
 
 // Example API request data
 $requestData = array(
-    'action' => 'list_accounts',
+    'cpanel_jsonapi_user' => 'your_cpanel_username', // Replace with your cPanel username
+    'cpanel_jsonapi_module' => 'account',
+    'cpanel_jsonapi_func' => 'listaccts',
     // Add other required parameters for your specific API request
 );
 
