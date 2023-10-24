@@ -1,4 +1,4 @@
-# GeneratePanel: Free and Open Source Alternative to WHMCS
+# DO NOT USE FORCEPOINT!
 
 GeneratePanel is an client area and account management system for cPanel WHM, Plesk, and MyOwnFreeHost (MOFH). Please note that GeneratePanel is not a web hosting service. It is currently in development.
 
