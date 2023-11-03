@@ -1,6 +1,6 @@
-# GeneratePanel: Free and Open Source Alternative to WHMCS
+# xBilling: Free and Open Source Alternative to WHMCS
 
-GeneratePanel is an client area and account management system for cPanel WHM, Plesk, and MyOwnFreeHost (MOFH). Please note that GeneratePanel is not a web hosting service. It is currently in development.
+xBilling is an client area and account management system for cPanel WHM, Plesk, and MyOwnFreeHost (MOFH). Please note that xBilling is not a web hosting service. It is currently in development.
 
 ## Features
 
@@ -17,7 +17,7 @@ GeneratePanel is an client area and account management system for cPanel WHM, Pl
 
 ## SMTP Services
 
-Here are some widely used SMTP services that are compatible with GenerateArea:
+Here are some widely used SMTP services that are compatible with xBilling:
 
 - [Mailgun](https://www.mailgun.com/)
 - [Mailjet](https://mailjet.com/)
@@ -26,12 +26,12 @@ Here are some widely used SMTP services that are compatible with GenerateArea:
 - [Brevo (formerly Sendinblue)](https://www.brevo.com/)
 - Gmail SMTP
 
-### GeneratePanel Development Roadmap
+### xBilling Development Roadmap
 
 **Phase 1: Project Initiation (Months 1-2)**
 
 1. **Define Objectives and Goals** (Month 1):
-   - Clearly outline the objectives of GeneratePanel, including support for cPanel WHM, Plesk, and VistaPanel.
+   - Clearly outline the objectives of xBilling, including support for cPanel WHM, Plesk, and VistaPanel.
    - Identify specific goals and key performance indicators (KPIs) for success.
 
 2. **Team Formation and Roles** (Month 1):
@@ -62,7 +62,7 @@ Here are some widely used SMTP services that are compatible with GenerateArea:
    - Implement user authentication, security measures, and API interactions.
 
 8. **Frontend Development** (Months 9-12):
-   - Develop the user interface for GeneratePanel.
+   - Develop the user interface for xBilling.
    - Ensure cross-platform compatibility and responsive design.
 
 **Phase 4: Testing and Quality Assurance (Months 13-16)**
@@ -81,7 +81,7 @@ Here are some widely used SMTP services that are compatible with GenerateArea:
     - Set up hosting infrastructure for GeneratePanel.
 
 12. **Official Launch** (Month 17):
-    - Launch GeneratePanel to the public.
+    - Launch xBilling to the public.
     - Monitor server performance and user feedback closely.
 
 **Phase 6: Post-Launch and Ongoing Development (Months 18+)**
